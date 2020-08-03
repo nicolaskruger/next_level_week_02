@@ -1,1 +1,1 @@
-# next_level_week_02
+# next_level_week_02_discovery
