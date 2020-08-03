@@ -1,0 +1,30 @@
+! # configuraçẽos padrões do html
+
+intalar a extenção live server 
+clicar no arquivo html  com o botão esquerdo e escolher a opção open with live server
+para acessar o menu de atalho basta:
+Ctr+p "shortcuts"
+figma programa esquematico
+1rem = 100%
+
+1em -> se referencia ao pai
+1rem -> se referencia ao root
+
+mooble first se desenvolve primeiro no mooble
+
+
+ ____________
+|margin
+| ___________
+||border
+|| __________
+|||padding
+
+border : contarna o elemento
+pading : tem 4 lados cima, direita, baixo, esquerda
+
+block : ocupa toda linha
+inline : namesma linha
+
+vh : referente a altura da tela 
+vw : referente a largura da tela
