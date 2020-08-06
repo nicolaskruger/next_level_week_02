@@ -1,0 +1,9 @@
+npm install express
+npm install nodemon
+npm install nunjucks
+
+modificar o arquivo package.json
+
+acrecentar o script
+
+"dev": "nodemon src/server.js"

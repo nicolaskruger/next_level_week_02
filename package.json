@@ -1,0 +1,28 @@
+{
+  "name": "dicovery",
+  "version": "1.0.0",
+  "description": "<img src= \"./images/NLW.jpg\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolaskruger/next_level_week_02_discovery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolaskruger/next_level_week_02_discovery/issues"
+  },
+  "homepage": "https://github.com/nicolaskruger/next_level_week_02_discovery#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
