@@ -7,3 +7,8 @@ modificar o arquivo package.json
 acrecentar o script
 
 "dev": "nodemon src/server.js"
+
+
+para iniciar 
+
+npm run dev;
